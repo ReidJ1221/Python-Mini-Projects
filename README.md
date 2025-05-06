@@ -15,9 +15,6 @@ Here are some of the projects included in this repo:
 | **Factorial Function** | Calculates the factorial of numbers inputted by the user.|
 | **Hurricane Speed**    | Categorizes hurricane wind speeds based on user number input.|
 | **Guess the word**     | Game where user guesses the word with lowercases letters.|
-| **To-Do List**         | CLI to-do app to manage daily tasks             |
-| **To-Do List**         | CLI to-do app to manage daily tasks             |
-| **To-Do List**         | CLI to-do app to manage daily tasks             |
 
 > Check individual project folders for specific instructions.
 
