@@ -16,8 +16,6 @@ Here are some of the projects included in this repo:
 | **Hurricane Speed**    | Categorizes hurricane wind speeds based on user number input.|
 | **Guess the word**     | Game where user guesses the word with lowercases letters.|
 
-> Check individual project folders for specific instructions.
-
 ## 🛠️ How to Run
 
 1. **Clone the repository**  
